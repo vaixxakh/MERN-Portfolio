@@ -153,7 +153,7 @@ app.use((err, req, res, next) => {
   res.status(500).json({ error: 'Internal Server Error', message: err.message });
 });
 
-// Start listening on port
+// Start listening on server port
 app.listen(PORT, () => {
   console.log(`====================================================`);
   console.log(`  MERN STACK PORTFOLIO BACKEND EXPRESS SERVER       `);
