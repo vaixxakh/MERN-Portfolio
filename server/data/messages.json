@@ -1,0 +1,66 @@
+[
+  {
+    "id": "msg_default_1",
+    "name": "Abhinav K.",
+    "email": "abhinav@bridgeon.in",
+    "subject": "Bridgeon MERN Review",
+    "message": "Vaishakh's performance in our intensive MERN stack curriculum was excellent. His capstone work showcased high understanding of routing, schema design, and asynchronous server states.",
+    "createdAt": "2026-05-24T08:36:51.277Z"
+  },
+  {
+    "id": "msg_default_2",
+    "name": "Sophia George",
+    "email": "sophia.g@lumiere.com",
+    "subject": "Lumiere E-Commerce Website",
+    "message": "During his internship, Vaishakh built our full-stack Lumiere Luxury Lighting website. The interactive catalog and fluid dark mode animations are highly professional.",
+    "createdAt": "2026-05-26T08:36:51.277Z"
+  },
+  {
+    "id": "msg_default_3",
+    "name": "Rajesh Varma",
+    "email": "rajesh.varma@localgig.net",
+    "subject": "Local Freelancer Platform",
+    "message": "Excellent job building our Local Service Freelancer Platform! The localized search endpoints and service booking pipelines are robust, quick, and clean.",
+    "createdAt": "2026-05-27T06:36:51.277Z"
+  },
+  {
+    "id": "msg_j2m2k1wov",
+    "name": "vaishakh k v",
+    "email": "vaishakhvinod1718@gmail.com",
+    "subject": "Hiring",
+    "message": "Offer",
+    "createdAt": "2026-05-27T08:58:41.063Z"
+  },
+  {
+    "id": "msg_q23hk64j5",
+    "name": "vaishakh k v",
+    "email": "vaishakhvinod1718@gmail.com",
+    "subject": "Hiring",
+    "message": "Offer",
+    "createdAt": "2026-05-27T08:58:42.498Z"
+  },
+  {
+    "id": "msg_ihge1dcju",
+    "name": "vaishakh",
+    "email": "vaishakhvinod1718@gmail.com",
+    "subject": "Hiring",
+    "message": "We Are hiring Software Developer.",
+    "createdAt": "2026-05-27T09:26:32.528Z"
+  },
+  {
+    "id": "msg_tmsakwm1v",
+    "name": "vaishakh",
+    "email": "vaishakhvinod1718@gmail.com",
+    "subject": "Hiring",
+    "message": "We Are hiring Software Developer.",
+    "createdAt": "2026-05-27T09:26:33.930Z"
+  },
+  {
+    "id": "msg_bk5fdc4xr",
+    "name": "vaishakh",
+    "email": "vaishakhvinodnlr@gmail.com",
+    "subject": "Feedback",
+    "message": "hey",
+    "createdAt": "2026-05-27T09:39:48.460Z"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "name": "mern-portfolio-root",
+  "version": "1.0.0",
+  "description": "MERN Stack Portfolio with Interactive Simulator",
+  "main": "index.js",
+  "scripts": {
+    "install:all": "npm install && npm install --prefix client && npm install --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "dev:server": "npm run dev --prefix server",
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\""
+  },
+  "keywords": [
+    "mern",
+    "react",
+    "express",
+    "tailwind",
+    "framer-motion"
+  ],
+  "author": "Antigravity",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
